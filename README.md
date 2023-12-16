@@ -6,6 +6,14 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prakhyat-Srivastava&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Prakhyat-Srivastava&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prakhyat-Srivastava&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
@@ -54,6 +62,12 @@
 
 ###
 
-<img align="right" height="150" src="https://wallpapers.com/wallpapers/baymax-vector-artwork-0kj6t4i31msnjszt.html?embed=true"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/67/e0/f4/67e0f45ce0d872c7686a6622b4692974.png"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Prakhyat-Srivastava/Prakhyat-Srivastava/output/snake.svg" alt="Snake animation" />
 
 ###
