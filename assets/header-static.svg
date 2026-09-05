@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="310" viewBox="0 0 960 310" role="img" aria-labelledby="title desc">
+<title id="title">Prakhyat Nandan Srivastava — Data Analyst</title>
+<desc id="desc">Data analysis, business intelligence and applied machine learning. A decorative cyan data network connects raw data to insight on a deep navy background.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07111F"/><stop offset="1" stop-color="#102638"/></linearGradient>
+  <linearGradient id="line"><stop stop-color="#57D9EF"/><stop offset="1" stop-color="#56E0BB"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#57D9EF" stop-opacity=".16"/><stop offset="1" stop-color="#57D9EF" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#32546A" stroke-opacity=".18"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+
+<rect x="1" y="1" width="958" height="308" rx="18" fill="url(#bg)" stroke="#284456"/>
+<rect x="590" y="2" width="350" height="306" fill="url(#grid)"/>
+<circle cx="776" cy="143" r="185" fill="url(#halo)"/>
+<path d="M35 44V28H51 M909 28H925V44 M35 267V283H51 M909 283H925V267" fill="none" stroke="#57D9EF" stroke-opacity=".6"/>
+<g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+<text x="57" y="54" fill="#57D9EF" font-size="13" letter-spacing="3">PNS / DATA OBSERVATORY</text>
+<text x="58" y="115" fill="#EAF2FF" font-size="46" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="700" letter-spacing="-1">Prakhyat Nandan</text>
+<text x="58" y="168" fill="#EAF2FF" font-size="46" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="700" letter-spacing="-1">Srivastava<tspan fill="#57D9EF">.</tspan></text>
+<text x="60" y="209" fill="#AFC6D9" font-size="19">DATA ANALYST / BI / APPLIED ML</text>
+<path d="M59 233H500" stroke="#294556"/>
+<circle cx="64" cy="261" r="4" fill="#56E0BB"/>
+<text x="79" y="266" fill="#C3D5E5" font-size="14">From raw data to clear decisions.</text>
+</g>
+<g fill="none" stroke="#315C70">
+<circle cx="773" cy="144" r="92" stroke-dasharray="2 9"/><circle cx="773" cy="144" r="60"/>
+<path d="M631 81L704 108L773 144L850 91L900 113 M622 204L696 184L773 144L840 211L909 189 M704 108L696 184 M850 91L840 211"/>
+<path d="M622 204L696 184L773 144L850 91L900 113" stroke="url(#line)" stroke-width="2"/>
+<path class="flow" d="M622 204L696 184L773 144L850 91L900 113" stroke="#C8FFFF" stroke-width="3"/>
+</g>
+<g fill="#102A3A" stroke="#57D9EF" stroke-width="1.5"><circle cx="631" cy="81" r="5"/><circle cx="704" cy="108" r="7"/><circle cx="622" cy="204" r="5"/><circle cx="696" cy="184" r="7"/><circle cx="850" cy="91" r="7"/><circle cx="840" cy="211" r="7"/><circle cx="900" cy="113" r="5"/><circle cx="909" cy="189" r="5"/></g>
+<circle class="pulse" cx="773" cy="144" r="24" fill="#57D9EF" opacity=".5" filter="url(#glow)"/>
+<circle cx="773" cy="144" r="22" fill="#102B3B" stroke="#67E8ED" stroke-width="2"/>
+<path d="M764 144L770 150L782 137" fill="none" stroke="#B4FAEF" stroke-width="2"/>
+<g fill="#81B3C6" font-family="ui-monospace, Consolas, monospace" font-size="11" letter-spacing="2"><text x="605" y="55">EXPLORE</text><text x="827" y="63">MODEL</text><text x="735" y="267">COMMUNICATE</text></g>
+</svg>
