@@ -126,12 +126,12 @@ Co-author of *[Optimized Machine Learning framework for Sentiment Analysis for A
 <!-- RECENT-PROJECTS:START -->
 **Recently updated repositories**
 
+- **[gymos\-platform\-](https://github.com/Prakhyat-Srivastava/gymos-platform-)** · pushed 2026-09-20
+  Multi\-tenant gym\-management platform \(Next\.js, NestJS, PostgreSQL\) \- leads to billing to coaching to progress, in one system\. Public overview only\.
 - **[analytics\-platform\-admin\-dashboard\-powerbi](https://github.com/Prakhyat-Srivastava/analytics-platform-admin-dashboard-powerbi)** · pushed 2026-04-04
   Power BI take\-home assignment project for an analytics platform admin dashboard\. Includes a two\-page dashboard for usage monitoring, retention, and funnel analysis, plus synthetic linked CSV data, ER diagram, Theme 1 documentation, and a Theme 2 secure document access solution proposal\.
 - **[My\_Portfolio](https://github.com/Prakhyat-Srivastava/My_Portfolio)** · pushed 2026-03-04
   A dynamic and interactive portfolio showcasing my skills, projects, and certifications as a Data Analyst &amp; Developer\. Powered by HTML, CSS, and JavaScript\.
-- **[movie\-rating\-prediction](https://github.com/Prakhyat-Srivastava/movie-rating-prediction)** · pushed 2024-12-29
-  Predicting movie ratings using regression models based on various features like genre, director, and actors
 <!-- RECENT-PROJECTS:END -->
 
 <a href="docs/activity.md"><img src="assets/stats.svg" width="420" alt="Public GitHub statistics: project repositories, stars, contributions, and active days. Open for current figures and definitions."></a>
