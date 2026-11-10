@@ -1,12 +1,12 @@
 # Public GitHub activity
 
-Updated **2026-11-09 UTC** from [GitHub public repositories](https://github.com/Prakhyat-Srivastava?tab=repositories) and the [public contribution calendar](https://github.com/users/Prakhyat-Srivastava/contributions).
+Updated **2026-11-10 UTC** from [GitHub public repositories](https://github.com/Prakhyat-Srivastava?tab=repositories) and the [public contribution calendar](https://github.com/users/Prakhyat-Srivastava/contributions).
 
-- Original public project repositories: **16** (excludes forks and this profile repository).
+- Original public project repositories: **17** (excludes forks and this profile repository).
 - Stars received across those repositories: **2**.
-- Contributions: **22** from **2025-11-10** through **2026-11-09**.
-- Active days: **9** (at least one contribution).
-- Current streak: **0 days**; longest within this 365-day window: **2 days**.
+- Contributions: **24** from **2025-11-11** through **2026-11-10**.
+- Active days: **10** (at least one contribution).
+- Current streak: **1 days**; longest within this 365-day window: **2 days**.
 
 Current streak includes today when active, otherwise runs backward from yesterday to allow today to complete. Dates follow GitHub's public calendar; refresh dates use UTC. Calendar contributions follow GitHub's attribution rules and can include anonymized private counts only if the owner already makes those counts publicly visible. No private repositories or private activity details are queried.
 
@@ -16,8 +16,8 @@ Current streak includes today when active, otherwise runs backward from yesterda
 | --- | ---: |
 | Jupyter Notebook | 5 |
 | CSS | 2 |
+| HTML | 2 |
 | C++ | 1 |
-| HTML | 1 |
 | Python | 1 |
 | TypeScript | 1 |
 
